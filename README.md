@@ -18,4 +18,5 @@ The review criteria are:
 5. The work submitted for this project is the work of the student who submitted it.
 
 Script to run the analysis: run_analysis.R
+
 Output file: tidydata.txt
